@@ -4,10 +4,10 @@ This is an npm module for accessing the moby parts-of-speech package. Moby is an
 ##Using moby-pos
 
 This npm module aims to be pretty simple to use. It has a single method which you can call to look up the parts of speech information for a given word.
-'''javascript
-    var pos = require('moby-pos');
-    console.log(pos.search("skeleton"));
-'''
+```javascript
+var pos = require('moby-pos');
+console.log(pos.search("skeleton"));
+```
 
 ##Reading the output
 
