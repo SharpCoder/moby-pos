@@ -1,6 +1,6 @@
 {
   "name": "moby-pos",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A node module for accessing the moby parts-of-speech packages.",
   "main": "index.js",
   "scripts": {
