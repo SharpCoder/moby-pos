@@ -1,7 +1,7 @@
 {
   "name": "moby-pos",
   "version": "0.1.2",
-  "description": "A node module for accessing the moby parts-of-speech packages.",
+  "description": "A node module for accessing the moby parts-of-speech package.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
