@@ -9,7 +9,7 @@
 
   var fs = require('fs');
   var dictionary = {};
-  var file = './mobypos.txt';
+  var file = __dirname + '/mobypos.txt';
 
   // Read the file (synchronously, for now).
   var data = fs.readFileSync(file).toString("utf8");

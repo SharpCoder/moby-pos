@@ -1,5 +1,5 @@
 # About the project
-This is an npm module for accessing the moby parts-of-speech package. Moby is an open source project with many linguistic databases (all public domain). You can access more about their project by visiting the following URL: http://icon.shef.ac.uk/Moby/
+This is an npm module for accessing the moby parts-of-speech package. Moby is an open source project with many linguistic databases (all public domain). You can access more about their project by visiting the following URL: [http://icon.shef.ac.uk/Moby/](http://icon.shef.ac.uk/Moby/)
 
 # Using moby-pos
 
